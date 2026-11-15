@@ -1,5 +1,5 @@
 # pgats-automacao-de-testes-de-performance
-Trabalho Extra - Valendo 1,0 ponto 
+**Trabalho Extra - Valendo 1,0 ponto** 
 
 **Desafio Prático – Testes de Performance com JMeter**
 
