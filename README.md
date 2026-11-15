@@ -1,15 +1,16 @@
 # pgats-automacao-de-testes-de-performance
-Trabalho valendo 1,0 ponto extra no trabalho final 
+Trabalho Extra - Valendo 1,0 ponto 
+
+Desafio Prático – Testes de Performance com JMeter
 
 Objetivo
+
 Crie um projeto utilizando o Apache JMeter.
 
 Requisitos do Projeto
 O projeto deve conter um Thread Group com carga de modelo fechado.
 O projeto deve conter um Thread Group com carga de modelo aberto.
-
 Em ambos os Thread Groups, os testes devem realizar consultas válidas para os seguintes endpoints:
- 
 POST /pets
 GET /pets
 
