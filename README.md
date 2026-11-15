@@ -18,8 +18,6 @@ Em ambos os Thread Groups, os testes devem realizar consultas válidas para os s
 
 **Importante:** Realize o login antes de executar as consultas aos endpoints.
 
-
-
 **Entrega**
 
 Aqui na plataforma, envie o **link do repositório do GitHub** contendo o arquivo **.jmx** do projeto de testes.
